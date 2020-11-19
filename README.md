@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # Bottom_sheet
-=======
-# bottom_sheet
 
 A new Flutter application.
 
