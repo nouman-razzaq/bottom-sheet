@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bottom_sheet
 
 A new Flutter application.
